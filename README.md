@@ -1,7 +1,5 @@
 # Simple Dark Mode Toggle 🌙
 
-Un ejemplo práctico y minimalista de cómo implementar un modo oscuro (Dark Mode) en un sitio web utilizando **Variables CSS** y **JavaScript nativo**.
-
 ## 🚀 Características
 - **Centrado Perfecto:** Implementado con Flexbox.
 - **Transiciones Suaves:** Cambio de color fluido mediante `transition`.
